@@ -1,6 +1,11 @@
 # Schedify
 Schedify is an intuitive web-based platform designed to streamline the scheduling of events, meetings, and bookings. With Schedify, users can easily manage their time, coordinate with others, and ensure seamless planning for personal and professional engagements.
 
+
+## Demo
+[![Watch the video](SchedifyDemo.png)](https://www.youtube.com/watch?v=Tid3EElHr9I)
+
+
 ## Features
 
 ### 1. Event Scheduling
