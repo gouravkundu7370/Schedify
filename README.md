@@ -3,7 +3,9 @@ Schedify is an intuitive web-based platform designed to streamline the schedulin
 
 
 ## Demo
-[![Watch the video](SchedifyDemo.png)](https://www.youtube.com/watch?v=Tid3EElHr9I)
+[![Watch the video in Youtube](SchedifyDemo.png)](https://www.youtube.com/watch?v=Tid3EElHr9I)
+
+[SchedifyDemo.webm](https://github.com/user-attachments/assets/37e2269c-e782-402e-8dcf-bcc0ad69c0e3)
 
 
 ## Features
